@@ -1,0 +1,6 @@
+@Tempo_HostAddress = http://localhost:5159
+
+GET {{Tempo_HostAddress}}/api/Commbank/uris
+Accept: application/json
+
+###
